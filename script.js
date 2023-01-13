@@ -1,4 +1,4 @@
 function showMessage() {
-  document.getElementByID("message").style.display = 'block';
+  document.getElementByID("hidden1").style.display = 'block';
 
 }
